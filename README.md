@@ -1,8 +1,9 @@
 -  Hi, I’m Athar Iqbal
--  I’m a Problem Solving Enthusiast.
--  I have made projects on React and JavaScipt which you can check over here.
+-  I’m a Problem Solving enthusiast.
+-  Learned Ruby on Rails and applied on one of my project.
+-  I have made projects on ReactJS and JavaScipt which you can check over here.
 -  I have been solving problems on Data Structure and Algorithms over on Leetcode.
--  You can check my profile on https://leetcode.com/u/athariqbal/
+-  You can check my profile on https://leetcode.com/u/athariqbal
 -  How to reach me? You can mail me on athariqbal7602@gmail.com or contact me on +919102877883
 
 <!---
